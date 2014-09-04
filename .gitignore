@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/KendoTypeScriptWebApp/obj/Debug
+/KendoTypeScriptWebApp/bin
+/KendoTypeScriptWebApp/app.js.map
+/KendoTypeScriptWebApp/app.js
